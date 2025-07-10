@@ -1,7 +1,7 @@
 # DIO | Formação Power BI Analyst
 
 Repositório criado para armazenar os projetos desenvolvidos 
-durante o curso de HTML Web Developer da [Digital Innvoation One](https://www.dio.me).
+durante a Formação Power BI Analyst da [Digital Innvoation One](https://www.dio.me).
 
 ## 📚 Documentação
 
